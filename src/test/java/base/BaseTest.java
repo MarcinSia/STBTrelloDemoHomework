@@ -14,8 +14,8 @@ public class BaseTest {
     protected static final String CARDS = "cards";
     protected static final String ORGANIZATIONS = "organizations";
 
-    protected static final String KEY = "850d5ebf1bb7287b29885a89f2e51190";
-    protected static final String TOKEN = "468d925f343825589639734de5b3dac105a7b87b44706c2aa5f4b81251f2767f";
+    protected static final String KEY = "YOUR_KEY";
+    protected static final String TOKEN = "YOUR_TOKEN";
 
     protected static RequestSpecBuilder reqBuilder;
     protected static RequestSpecification reqSpec;
